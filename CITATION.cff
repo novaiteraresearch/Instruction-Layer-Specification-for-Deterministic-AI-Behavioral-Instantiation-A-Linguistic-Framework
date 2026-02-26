@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Instruction-Layer Specification for Deterministic AI Behavioral Instantiation: A Linguistic Framework for Computational Agency Control"
+type: software
+version: "1.0.0"
+authors:
+  - family-names: "Furlow"
+    given-names: "Ariel J."
+    orcid: "https://orcid.org/0009-0006-4949-3151"
+    affiliation: "Nova Itera Research Group"
+doi: "10.5281/zenodo.18786639"
+date-released: "2026-01-21"
+url: "https://doi.org/10.5281/zenodo.18786639"
+repository-code: "https://github.com/novaiteraresearch/Instruction-Layer-Specification-for-Deterministic-AI-Behavioral-Instantiation-A-Linguistic-Framework"
+license: "proprietary"
+keywords:
+  - "AI safety"
+  - "instruction-layer specification"
+  - "deterministic AI"
+  - "behavioral instantiation"
+  - "metaprompting"
+  - "prompt engineering"
+  - "large language models"
+  - "computational agency"
+  - "Advanced Prompt Theory"
+  - "guardrailing"
+  - "prompt-as-code"
+  - "programmatic output"
+abstract: "This technical publication defines a linguistic, instruction-layer architecture for large language models that achieves deterministic, auditable AI behavior through specification-layer design rather than model-level modification. It formalizes five interlocking principles drawn from Advanced Prompt Theory: iterative refinement and optimization, metaprompting for persona instantiation, multi-layered and redundant guardrailing, programmatic output architectures, and the prompt-as-code paradigm."
+references:
+  - type: generic
+    title: "Zenodo Archival Record"
+    url: "https://zenodo.org/records/18786639"
+    doi: "10.5281/zenodo.18786639"
+    authors:
+      - family-names: "Furlow"
+        given-names: "Ariel J."
+        orcid: "https://orcid.org/0009-0006-4949-3151"
