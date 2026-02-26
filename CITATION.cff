@@ -1,38 +1,52 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it using the metadata below."
-title: "Instruction-Layer Specification for Deterministic AI Behavioral Instantiation: A Linguistic Framework for Computational Agency Control"
+message: "If you reference this work in academic or technical contexts, please cite it as below. Note: This work is proprietary and requires authorization for use."
 type: software
-version: "1.0.0"
+title: "Instruction-Layer Specification for Deterministic AI Behavioral Instantiation: A Linguistic Framework for Computational Agency Control"
+version: 1.0.0
+date-released: 2026-02-26
 authors:
-  - family-names: "Furlow"
-    given-names: "Ariel J."
+  - family-names: Furlow
+    given-names: Ariel
     orcid: "https://orcid.org/0009-0006-4949-3151"
     affiliation: "Nova Itera Research Group"
-doi: "10.5281/zenodo.18786639"
-date-released: "2026-01-21"
-url: "https://doi.org/10.5281/zenodo.18786639"
-repository-code: "https://github.com/novaiteraresearch/Instruction-Layer-Specification-for-Deterministic-AI-Behavioral-Instantiation-A-Linguistic-Framework"
-license: "proprietary"
+    role: "Research Lead & Principal Inventor"
+  - name: "Advanced Prompt Engineering AI Assistant"
+    role: "Technical Contributor"
 keywords:
-  - "AI safety"
-  - "instruction-layer specification"
-  - "deterministic AI"
-  - "behavioral instantiation"
-  - "metaprompting"
-  - "prompt engineering"
-  - "large language models"
-  - "computational agency"
-  - "Advanced Prompt Theory"
-  - "guardrailing"
-  - "prompt-as-code"
-  - "programmatic output"
-abstract: "This technical publication defines a linguistic, instruction-layer architecture for large language models that achieves deterministic, auditable AI behavior through specification-layer design rather than model-level modification. It formalizes five interlocking principles drawn from Advanced Prompt Theory: iterative refinement and optimization, metaprompting for persona instantiation, multi-layered and redundant guardrailing, programmatic output architectures, and the prompt-as-code paradigm."
+  - prompt engineering
+  - AI alignment
+  - deterministic AI control
+  - metaprompting
+  - computational linguistics
+  - AI behavioral architecture
+  - constraint-driven AI
+  - linguistic specification
+  - AI safety
+  - instruction-layer design
+abstract: "This research presents a comprehensive framework for deterministic AI behavioral control through instruction-layer specification, emphasizing the importance of linguistic encoding for operational parameters. Key contributions include metaprompting for consistent AI persona, multi-layered guardrailing to prevent behavioral deviations, programmatic output architectures for machine-readable data, and a prompt-as-code paradigm that integrates version control and intellectual property protection."
+license: "Proprietary"
+doi: "10.5281/zenodo.18786639"
+url: "https://doi.org/10.5281/zenodo.18786639"
+repository-code: "https://zenodo.org/records/18786639"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18786639"
+contact:
+  - name: "Ariel J. Furlow"
+    affiliation: "Nova Itera Research Group"
 references:
-  - type: generic
-    title: "Zenodo Archival Record"
-    url: "https://zenodo.org/records/18786639"
-    doi: "10.5281/zenodo.18786639"
+  - type: article
+    title: "Core Principles of Advanced Prompt Theory"
     authors:
-      - family-names: "Furlow"
-        given-names: "Ariel J."
-        orcid: "https://orcid.org/0009-0006-4949-3151"
+      - family-names: Furlow
+        given-names: Ariel
+    year: 2026
+preferred-citation:
+  type: generic
+  title: "Instruction-Layer Specification for Deterministic AI Behavioral Instantiation"
+  authors:
+    - family-names: Furlow
+      given-names: Ariel
+  year: 2026
+  publisher: "Nova Itera Research Group"
+  notes: "Proprietary Research Framework - Patent Pending"
