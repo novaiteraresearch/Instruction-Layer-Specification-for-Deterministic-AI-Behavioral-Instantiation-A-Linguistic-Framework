@@ -1,22 +1,103 @@
-Proprietary License - All Rights Reserved
+PROPRIETARY LICENSE AGREEMENT
 
-Copyright (c) 2026 Nova Itera Research Group
+Copyright 2026 Nova Itera Research Group. All Rights Reserved.
 
-All rights reserved.
+This software, documentation, research materials, methodologies, frameworks, and all associated intellectual property (collectively, the "Materials") are proprietary and confidential to Nova Itera Research Group ("NIRGLLC").
 
-This work, including all associated documentation, specifications, methods, frameworks, and derivative materials, is the exclusive intellectual property of Nova Itera Research Group and its authorized contributors.
 
-Unauthorized use, reproduction, modification, adaptation, translation, distribution, sublicensing, or any other exploitation of this work, in whole or in part, in any form or by any means, electronic, mechanical, or otherwise, is strictly prohibited without the prior express written permission of Nova Itera Research Group.
+DOCUMENT METADATA
 
-No rights are granted under this license to use any associated patents, patent applications, trade secrets, trademarks, or other intellectual property rights of Nova Itera Research Group, except as explicitly authorized in a separate written agreement executed by an authorized representative of Nova Itera Research Group.
+Title:            Instruction-Layer Specification for Deterministic AI Behavioral Instantiation:
+                  A Linguistic Framework for Computational Agency Control
+Author:           Ariel J. Furlow
+Copyright Holder: Nova Itera Research Group
+Copyright Year:   2026
+Created On:       January 21, 2026
+Last Edited On:   February 26, 2026
+Status:           Proprietary and Confidential - All Rights Reserved
+Patent Status:    Patent Pending
+ORCID:            0009-0006-4949-3151
+DOI:              10.5281/zenodo.18786639
 
-This work is provided for documentation and citation reference purposes only. Nothing in this repository constitutes a license, express or implied, to practice any method, system, or process described herein.
 
-FOR LICENSING INQUIRIES, PERMISSIONS, OR COLLABORATION REQUESTS, CONTACT:
+INTELLECTUAL PROPERTY NOTICE
 
+This work constitutes proprietary intellectual property of Ariel J. Furlow and Nova Itera Research
+Group. All rights are reserved. No copying, adaptation, or deployment in commercial or research
+contexts without explicit written authorization and proper attribution is permitted.
+
+
+RESTRICTIONS
+
+1. The Materials are protected by copyright law, trade secret law, and patent law (pending).
+
+2. No license, express or implied, is granted to any person or entity by virtue of access to
+   this repository.
+
+3. Unauthorized copying, modification, distribution, public display, or use of the Materials,
+   in whole or in part, is strictly prohibited.
+
+4. Reverse engineering, decompilation, or disassembly of any methodologies, frameworks, or
+   systems described in the Materials is expressly forbidden.
+
+5. Any use of the Materials requires prior written authorization from NIRGLLC.
+
+6. This license supersedes any open-source licenses that may have been inadvertently applied.
+
+
+INTELLECTUAL PROPERTY CLAIMS
+
+The Materials contain inventions, methodologies, and technical specifications that are:
+- Subject to pending patent applications
+- Protected as trade secrets under applicable law
+- Protected by copyright as original works of authorship
+
+This document and its associated methodologies are subject to pending patent applications.
+Unauthorized use, reproduction, or distribution is prohibited and may result in legal action.
+
+
+TRIPLE-LOCK PROTECTION STRATEGY
+
+This work is protected under three concurrent legal frameworks:
+
+1. COPYRIGHT PROTECTION
+   All expressive content, documentation, and written specifications are protected as original
+   works of authorship under applicable copyright law.
+
+2. TRADE SECRET PROTECTION
+   Methodologies, frameworks, architectural designs, and operational specifications contained
+   herein are protected as trade secrets. Access restrictions are maintained to preserve this
+   status.
+
+3. PATENT-PENDING STATUS
+   Functional inventions, novel processes, and technical systems described in the Materials
+   are subject to pending patent applications. All rights associated with those applications
+   are reserved.
+
+
+LEGAL REMEDIES
+
+Unauthorized use, reproduction, or distribution of the Materials may result in:
+- Civil litigation for damages
+- Injunctive relief
+- Criminal prosecution where applicable
+- Recovery of attorney's fees and costs
+
+
+NO WARRANTY
+
+THE MATERIALS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+NIRGLLC DISCLAIMS ALL WARRANTIES INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NON-INFRINGEMENT.
+
+
+CONTACT
+
+For licensing inquiries or authorized access requests:
 Nova Itera Research Group
-Author: Ariel J. Furlow
+Ariel J. Furlow, Research Lead
 ORCID: 0009-0006-4949-3151
-DOI: https://doi.org/10.5281/zenodo.18786639
+DOI:   https://doi.org/10.5281/zenodo.18786639
 
-THIS WORK IS PROVIDED WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL NOVA ITERA RESEARCH GROUP OR ITS CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE USE OR INABILITY TO USE THIS WORK.
+
+Last Updated: February 26, 2026
